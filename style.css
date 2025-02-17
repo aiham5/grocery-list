@@ -1,0 +1,72 @@
+h1 {
+    border-radius: 5px;
+}
+
+h2,h3 {
+    background-color: crimson;
+    padding: 5px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+body {
+    color:antiquewhite;
+    text-align: center;
+    background-color: peachpuff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+h1 {
+    background-color: maroon;
+}
+
+li {
+    margin-right: 10px;
+}
+
+
+ul {
+    text-align: left;
+    color: whitesmoke;
+}
+
+section.dry {
+    display: inline-block;
+}
+
+section.can {
+    display: inline-block;
+}
+
+section.veggies {
+    display: inline-block;
+}
+
+section.snacks {
+    display: inline-block;
+}
+
+section {
+    background-color: crimson;
+    border-radius: 10px;
+    width: 200px;
+}
+
+img.pantry {
+    width: 250px;
+    border-radius: 5px;
+    display: inline-block;
+    height: 200px;
+    translate: 10px;
+    position: absolute; top: -10;
+}
+
+img.freezer {
+    width: 250px;
+    border-radius: 5px;
+    display: inline-block;
+    height: 200px;
+    translate: 10px;
+    position: absolute; top: -10;
+}
